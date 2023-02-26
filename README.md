@@ -2,6 +2,9 @@
 
 My submission for the # Coding-Your-Future-x-Coppell-HS-Hackathon-Submission
 
+Check out the video presentation
+https://www.youtube.com/watch?v=EwpnfZRQenk
+
 Try it out
 http://spartachus345.pythonanywhere.com/
 
