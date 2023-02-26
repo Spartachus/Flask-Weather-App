@@ -2,6 +2,9 @@
 
 My submission for the # Coding-Your-Future-x-Coppell-HS-Hackathon-Submission
 
+Try it out
+http://spartachus345.pythonanywhere.com/
+
 --WARNING--
 
 in the .env file and get your API key from openweathermap and create variable like this
